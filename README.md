@@ -1,2 +1,4 @@
 # bash_scripts_total_emission_burden
-Computes total emission flux and burden based on ECHAM-HAM model output
+> The bash scripts compute the total emission flux and burden based on ECHAM6.3-HAM2.3 model output.\
+> Scripts for global, regional or Arctic totals are indicated in the file names.\
+> The name of the species can be defined in the scripts
