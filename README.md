@@ -6,3 +6,6 @@
 > The name of the species can be defined in the scripts.
 > 
 > They are used in [Leon-Marcos et al. (2025a)](https://doi.org/10.5194/gmd-18-4183-2025) GMD paper and [Leon-Marcos et al. (2025)](https://doi.org/10.5194/egusphere-2025-2829) ACP paper
+
+### Contributions
+- Bernd Heinold Dr. (Senior scientist at TROPOS) - provided the draft scripts upon which the current versions are based
